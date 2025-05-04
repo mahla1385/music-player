@@ -1,7 +1,0 @@
-: package:flutter_lints/flutter.yaml
-linter:
-  rules:
-    prefer_const_constructors : false
-analyzer:
-  errors:
-    invalid_annotation_target: ignore
